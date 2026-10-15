@@ -13,8 +13,8 @@
 - Just Studing
 - making simple web
 - talking something
-  
-[![Jeonghun Kim's github stats](github-stats-extended.vercel.app/api?username=BBlack-Hun)](https://github.com/anuraghazra/github-stats-extended.vercel.app)
+
+[![Jeonghun Kim's GitHub stats](https://github-stats-extended.vercel.app/api?username=BBlack-Hun)](https://github.com/stats-organization/github-stats-extended)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=BBlack-Hun&layout=compact&theme=compact&langs_count=5&hide=jupyter%20notebook)](https://github.com/anuraghazra/github-readme-stats)
 
